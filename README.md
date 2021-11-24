@@ -1,4 +1,4 @@
-# Joke-Chrome-Extension
+# Joke-Extension
 
 A google chrome extension which gives out a random joke on every click.
 Try out the extension and give your feedback.
